@@ -1,48 +1,18 @@
-Project Overview
-This is a Spring Boot-based Book Store Management System that allows users to:
+📘 Bookstore Web Application – Spring Boot Project
+📌 Overview:
+The Bookstore project is a full-stack web application built using Spring Boot. It allows users to add, view, edit, and manage books in a digital catalog. The app is designed with a simple, user-friendly interface powered by Thymeleaf templates, and uses Spring MVC architecture.
 
-View available books
+🚀 Features:
+✅ Add new books with details like name, author, and price
 
-Add new books to the store
+📋 View all books in a list (book catalog)
 
-Edit existing book details
+✏️ Edit or update book details
 
-Delete books
+🗑️ Delete books from the catalog
 
-Maintain a personal "My Books" list
+📚 Add books to a personal "My Book List" collection
 
-Remove books from their personal list
+🏠 Home page with navigation to all features
 
-Technical Stack
-Backend: Spring Boot (Web, Data JPA)
-
-Database: (Configured via Spring Data JPA - typically H2 or MySQL)
-
-Frontend: Thymeleaf templates for server-side rendering
-
-Build Tool: Maven (implied by Spring Boot structure)
-
-Key Features
-Book Management:
-
-CRUD operations for books
-
-Separate entity and repository for books
-
-Service layer for business logic
-
-Personal Book Lists:
-
-Users can save books to their personal list
-
-Dedicated entity and repository for personal books
-
-Ability to remove books from personal list
-
-MVC Architecture:
-
-Clear separation of concerns (Controller-Service-Repository)
-
-Model binding for form handling
-
-RESTful routing structure
+🧪 Unit test setup (via BookstoreApplicationTests)

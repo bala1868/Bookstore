@@ -16,3 +16,6 @@ The Bookstore project is a full-stack web application built using Spring Boot. I
 🏠 Home page with navigation to all features
 
 🧪 Unit test setup (via BookstoreApplicationTests)
+
+
+<img width="1360" height="446" alt="books" src="https://github.com/user-attachments/assets/e14fdb3a-e7df-4bf2-a431-181e660b3e88" />
